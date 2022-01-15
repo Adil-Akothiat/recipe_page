@@ -253,6 +253,7 @@ section .intruc_ div {
 }
 
 section .intruc_ div button {
+  cursor: pointer;
   background-color: #F2994A;
   border: none;
   color: #FFF;
